@@ -49,6 +49,7 @@ img{
 .profile-picture1{
     height: 40px;
     width: 40px;
+    background-color: #EAEAEA;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .p1{
@@ -74,6 +75,7 @@ input{
 .profile-picture2{
     height: 70px;
     width: 65px;
+    background-color: #EAEAEA;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .h3-child{
